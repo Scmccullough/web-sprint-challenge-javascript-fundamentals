@@ -113,7 +113,7 @@ function add(/*Your Code Here */){
     /*Your Code Here*/
   }
 
-// 🦁🦁🦁 Use multiply to return the product of two numbers 🦁🦁🦁
+// 🦁🦁🦁 Use multiply to return the product of two numbers 🦁🦁🦁  
   
 function multiply(/*Your Code Here */){
    /*Your Code Here */
